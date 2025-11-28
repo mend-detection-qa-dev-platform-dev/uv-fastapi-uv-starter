@@ -1,3 +1,20 @@
+### 4. angelospanag/fastapi-uv-starter
+- **URL:** https://github.com/angelospanag/fastapi-uv-starter
+- **Stars:** 15
+- **Forks:** 3
+- **Type:** REST API / Web Application Starter
+- **UV Version:** 0.9.x
+- **Python Version:** 3.13+
+- **Language:** Python 87.2%, Dockerfile 12.8%
+- **Main Dependencies:**
+  - FastAPI
+  - structlog (structured logging)
+  - pytest + pytest-cov
+  - ruff
+- **Key Features:** Production-ready logging, comprehensive testing, Kubernetes config
+- **Why Analyzed:** Production-ready FastAPI template with modern tooling
+
+
 # fastapi-uv-starter
 
 A starter project using Python, FastAPI and uv.
